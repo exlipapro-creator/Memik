@@ -1,0 +1,6 @@
+{
+  "name": "Tanzania Match Events & Activities",
+  "description": "Discover live Tanzania football match events (NBC Premier League, Community Shield, Mapinduzi Cup), official team spokesperson Instagram news feeds, and top Tanzanian safari and island activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
